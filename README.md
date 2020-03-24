@@ -29,6 +29,7 @@ A cavity in a tube exposes the sensors to the airstream.
 	- 500 ml / (1.27 cm ^2 * pi) /3 sec/ 100.
 
 ### Bill of Materials
+	- DegreeC Airflow sensor [f662-A](https://degree-controls-inc.myshopify.com/pages/f660-662)
 	- gauge pressure sensor, MP3V5004G [NXP MP3V5004 Series](https://www.nxp.com/docs/en/data-sheet/MP3V5004G.pdf)
 	- humidity sensor through-hole - H1H800, digikey 480-5706-1-ND
 	- humidity sensor surface mount - SHTC3, digikey 1649-1100-1-ND
