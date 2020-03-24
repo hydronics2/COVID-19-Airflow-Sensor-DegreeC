@@ -11,11 +11,15 @@ This is a prototype using the [DegreeC controls F662-A air flow sensor](https://
 
 ![foo](https://github.com/hydronics2/COVID-19-Airflow-Sensor-DegreeC/blob/master/pics/f66x_sensor_pic.png)
 
-
+Prototype board has an OLED screen and user interface rotary encoder and button.
 ![foo](https://github.com/hydronics2/COVID-19-Airflow-Sensor-DegreeC/blob/master/pics/board1.png)
+
+Airflow sensor, humidity sensor and gauge pressure sensor is rear mounted.
 ![foo](https://github.com/hydronics2/COVID-19-Airflow-Sensor-DegreeC/blob/master/pics/board2.png)
 
 ![foo](https://github.com/hydronics2/COVID-19-Airflow-Sensor-DegreeC/blob/master/pics/pcb_on_tube.PNG)
+
+A cavity in a tube exposes the sensors to the airstream.
 ![foo](https://github.com/hydronics2/COVID-19-Airflow-Sensor-DegreeC/blob/master/pics/pcb_on_tube2.PNG)
 
 
