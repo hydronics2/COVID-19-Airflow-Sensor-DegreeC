@@ -27,3 +27,15 @@ A cavity in a tube exposes the sensors to the airstream.
 ### Notes:
 - Using a 1” diameter tube and normal inhale of 500mL gives an average air velocity of 0.328 m/s
 	- 500 ml / (1.27 cm ^2 * pi) /3 sec/ 100.
+
+### Bill of Materials
+	- gauge pressure sensor, MP3V5004G [NXP MP3V5004 Series](https://www.nxp.com/docs/en/data-sheet/MP3V5004G.pdf)
+	- humidity sensor through-hole - H1H800, digikey 480-5706-1-ND
+	- humidity sensor surface mount - SHTC3, digikey 1649-1100-1-ND
+	- piezo buzzer, generic, 6.5mm pitch
+	- transistor to drive piezo pn2222A
+	- oled display, generic 1306 OLED, 128 x 64 pixels
+	- Linear 3.3v regulator LDL1117S33R
+	- Rotary Encoder and momentary switch, Bourns PEC12R-4220F-S0012-ND
+	- generic 6mm user defined momentary tactile switch
+	- generic 1206 smd LEDs for Power, Error, and TBD LED indicator
