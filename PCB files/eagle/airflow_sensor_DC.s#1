@@ -4554,9 +4554,6 @@ Bourns PEC12R-4220F-S0012-ND</text>
 </text>
 <text x="-137.16" y="83.312" size="1.778" layer="91">
 https://www.mouser.com/ProductDetail/511-LDL1117S33R</text>
-<text x="127" y="152.4" size="1.778" layer="91">DegreeC F66X Sensor
-https://degreec.com/pages/f660-662
-</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="-25.4" y="106.68" smashed="yes">
