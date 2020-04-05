@@ -1,3 +1,5 @@
+#### This sensor was abandoned because their is a 1-2 second delay in data output... The sensor output is also a saw-tooth and doesn't respond to quick starts and stops of airflow. An ongoing airflow sensor is here: [AFH55M12](https://github.com/hydronics2/COVID-19-Airflow-Sensor-AFH55M12) 
+
 # Airflow - DegreeC Controls Sensor
 
 ## Project Description ([from Helpful Engineering](https://www.helpfulengineering.org/))
